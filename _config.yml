@@ -1,0 +1,14 @@
+title: Sara Levay
+description: Welcome at my homepage!
+show_downloads: true
+remote_theme: tuur29/pages-themes-cayman
+color:
+  header: "#454545"
+  gradient_left: "#f57c00"
+  gradient_right: "#dfc000"
+#logo_url: https://github.githubassets.com/images/icons/emoji/octocat.png
+syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
+
+plugins:
+  - jekyll-seo-tag  
+

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+
+    {% if site.google_analytics %}
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', '{{ site.google_analytics }}', {'anonymize_ip': {{ site.google_analytics_anonymize | default: false }}});
+      </script>
+    {% endif %}
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="{{ site.color.android_theme | default: site.color.gradient_left }}">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    {% if site.syntax_theme %}
+      <link rel="stylesheet" href="{{ site.syntax_theme }}">
+    {% endif %}
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <a href="{{ "./" }}" class="btn">{{ site.buttons.zip_title | default: "About me" }}</a>
+      <a href="{{ "./photoactive.html" }}" class="btn">{{ site.buttons.zip_title | default: "PhotoActive" }}</a>
+      <a href="{{ "./research.html" }}" class="btn">{{ site.buttons.zip_title | default: "Research" }}</a>
+      <a href="{{ "./cv.html" }}" class="btn">{{ site.buttons.zip_title | default: "CV" }}</a>
+      <a href="{{ "./publications_conferences.html" }}" class="btn">{{ site.buttons.zip_title | default: "Publications & Conferences" }}</a>
+      <a href="{{ "./contact.html" }}" class="btn">{{ site.buttons.zip_title | default: "Contact" }}</a>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+
+	  <div align="center">
+      <footer class="site-footer">
+        <span class="site-footer-credits">&copy; 2024 Sara Levay</span>
+      </footer>
+      </p>
+    </div>
+
+    <script>
+      Array.from(
+        document.querySelectorAll('h1[id],h2[id],h3[id],h4[id],h5[id],h6[id]')
+      ).forEach(h => {
+        h.addEventListener('click', e => {
+          window.location.hash = e.target.getAttribute('id');
+        });
+      })
+    </script>
+  </body>
+</html>
