@@ -4,7 +4,9 @@ title: Contact
 description: ...
 ---
 
+<div align="center">
 You can find me at ...
+</div>
 
 <div align="center">
 <a href="https://scholar.google.com/citations?user=UmBd0UAAAAAJ&hl=en" target="_blank">
