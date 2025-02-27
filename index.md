@@ -23,8 +23,7 @@ I hope you find my projects interesting :)
 
 * **19/12/2024** - Our first <a href="https://arxiv.org/abs/2412.14419" target="_blank">preprint</a> of [project PhotoActive](./photoactive.html) is available on arXiv! It is about the cluster dynamics of macroscopic photoactive particles.
 
-
-* **18/12/2024** - I visited to my secondary school in my hometown to give a talk about my current projects and share with interested students how I became a physicist.
+* **18/12/2024** - I visited my secondary school in my hometown to give a talk about my current projects and share with interested students how I became a physicist.
 
 * **04/12/2024** - I gave a talk at the Traffic and Granular Flow conference in Lyon, presenting the results of PhotoActive.
 
