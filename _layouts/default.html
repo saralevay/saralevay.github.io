@@ -3,15 +3,6 @@
   <head>
 
     {% if site.google_analytics %}
-      <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-SDRFJ9LMQB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-SDRFJ9LMQB');
-</script>
     {% endif %}
     <meta charset="UTF-8">
 
@@ -23,6 +14,7 @@
     {% if site.syntax_theme %}
       <link rel="stylesheet" href="{{ site.syntax_theme }}">
     {% endif %}
+    {% include analytics.html %}
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
