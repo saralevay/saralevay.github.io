@@ -4,7 +4,7 @@ title: Project PhotoActive
 description: PhotoActive is my current postdoc project with the Marie Skłodowska-Curie grant (No. 101067363) at the University of Navarra.
 ---
 
-> Follow PhotoActive on <a href="" target="_blank">Instagram</a>!
+> Follow PhotoActive on <a href="https://www.instagram.com/photoactive_msca/?hl=en" target="_blank">Instagram</a>!
 
 # What are we doing?
 
