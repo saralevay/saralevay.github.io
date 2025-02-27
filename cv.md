@@ -4,7 +4,7 @@ title: CV
 description: Curruculum Vitae of Sara Levay
 ---
 
-# Employment
+# Work experience
 
 * **From 04/2023: Marie Skłodowska-Curie Postdoctoral Fellow**  
   _University of Navarra, Pamplona, Spain_  
