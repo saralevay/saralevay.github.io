@@ -8,7 +8,7 @@ description: PhotoActive is my current postdoc project with the Marie Skłodowsk
 
 # What are we doing?
 
-We are working with small bugs that move when they are illuminated. When we illuminate them more, they move faster, when the illumination intensity is lower, they move slower. We created an arena with a huge LED panel, where we can control the illumination in space and time. We place lots of bugs in the arena, apply different illumination patterns and intensities, and we study how the bugs behave. As they move, they collide with each other, and with the surrounding walls. They form groups, that can move or stay stable. These groups can split, merge and show really interesting behavior. Sounds fun?
+We are studying small bugs that respond to light by moving. When exposed to higher illumination, they move faster; with lower illumination, they slow down. To investigate this behavior, we designed an arena with a large LED panel that allows precise control of light intensity across space and time. By placing numerous bugs in the arena and applying various illumination patterns, we can observe how they react. As they move, they collide with one another and with the arena's walls, forming dynamic groups that may move or stay stable. These groups can merge, split, and exhibit fascinating collective behaviors.
 
 ### This is the experimental setup
 
@@ -16,7 +16,7 @@ We are working with small bugs that move when they are illuminated. When we illu
 <img src="./media/publ_images/setup.png" alt="Setup" style="width:60%; height:auto;">
 </div>
 
-The particles are made of <a href="https://hexbug.com/" target="_blank">Hexbug nano-s</a>. Hexbugs are small "robots" with a small battery, a rotating motor, and flexible tilted rubber legs. When you turn them on, they start to vibrate and move. We made a small modification on the Hexbugs, as you can see above. We removed the battery, and added the red plastic cap that holds a photovoltaic cell. In this way the bugs can move only when they are illuminated. When we illuminate them more, they vibrate stronger and thus propel faster. On the other hand, when the illumination is lower, the vibration is weaker, and their velocity is smaller. This means, that we can tune the activity of the particles by changing the illumination.
+The particles are modified <a href="https://hexbug.com/" target="_blank">Hexbug Nanos</a>, small "robots" equipped with a small battery, a rotating motor, and flexible tilted rubber legs. When activated, they vibrate and move. We customized the Hexbugs, as shown above, by removing the battery and adding a red plastic cap that holds a photovoltaic cell. This modification makes them light-responsive, allowing movement only when illuminated. Higher illumination increases vibration intensity, causing them to move faster, while lower illumination results in weaker vibrations and slower movement. This enables precise control over their activity by simply adjusting the light levels.
 
 
 ### This is how the particles move with different illumination...
@@ -25,9 +25,9 @@ The particles are made of <a href="https://hexbug.com/" target="_blank">Hexbug n
 <iframe src="https://drive.google.com/file/d/1h4iLuwyD9wWg8wfvG62p63ETD6yDVHag/preview" width="768" height="555" allow="autoplay" style="border:none;"></iframe>
 </div>
 
-In order to change the illumination, we have created a huge (80 cm x 80 cm) illumination panel from LED lines, that we can control completely. We can program the light intensity line-by-line, meaning that the illumination protocol can be changed in space and time. With this we have an external control on the activity of the bugs. We place the bugs beneath the illumination panel. They are running in an arena with a size of 80 cm x 80 cm, surrounded by walls. The walls a 3D-printed, so we can change their shape and size easily.
+To control the illumination, we built a large 80 cm × 80 cm LED panel, which allows us to precisely adjust light intensity. The panel can be programmed line by line, enabling dynamic changes in illumination across space and time. This gives us external control over the activity of the bugs. The bugs are placed beneath the panel in an 80 cm × 80 cm arena enclosed by 3D-printed walls, which can be easily modified in shape and size.
 
-When we place lots of bugs into the arena and turn on the light, they start to move, collide with each other and the walls, and show a really interesting collective behavior. We record videos with a camera placed beneath the arena, and by analyzing the videos, we can track and follow the movement of the particles. From this we calculate many interesting things.
+When we introduce a large number of bugs into the arena and turn on the light, they begin to move, collide with each other and the walls, and exhibit fascinating collective behaviors. A camera positioned beneath the arena records their movements, allowing us to track individual particles and analyze their motion. From these recordings, we extract valuable data and insights into their behavior.
 
 ### ... and this is how a collision looks like
 
@@ -37,35 +37,35 @@ When we place lots of bugs into the arena and turn on the light, they start to m
 
 # What we have studied so far?
 
-First of all, we focused on homogeneous illumination in the arena. We have studied how groups of particles, clusters, are being created and destroyed. We used different particle polulations and different illumination intensities and made lots of experiments.
+First, we focused on applying uniform illumination across the arena to study how particle clusters form and disperse. We conducted numerous experiments, varying both the particle population and the illumination intensity to observe their effects on cluster dynamics.
 
 ### This is an image from the experiments
 
 <img src="./media/publ_images/clusters.png" alt="Clusters" align="left" style="width:50%; height:auto; margin-right:50px;">
-As particles collide, they form groups, called clusters. Sometimes these clusters are smaller, sometimes larger. They can move or stay at the walls. When new particles are colliding with the cluster they can attach to it. Also, particles can leave the cluster.
+As particles collide, they form groups known as clusters. These clusters vary in size—some remain small, while others grow larger. They can move freely or stay near the walls. When new particles collide with a cluster, they may attach to it, while others may break away and leave.
 
-We have seen that small clusters tend to disassociate relatively quickly, while large clusters usually have a longer duration. This depends a lot on the activity of the bugs. If they are more active, they move a lot and have lots of collisions inside the clusters as well, which facilitates the dissolution the the group.
+Our observations show that small clusters tend to disperse quickly, whereas larger clusters are generally more stable and last longer. The stability of these clusters is strongly influenced by the activity level of the bugs. When their activity is high, frequent movement and collisions within the cluster accelerate its breakdown, leading to faster dissolution.
 <br clear="left"/>
 
 ### In this video you can check how the clusters behave
 
 <iframe src="https://drive.google.com/file/d/1wMwmL4mDQV-yT5vslmJWSbXSGugTfVp6/preview" width="450" height="450" allow="autoplay" align="right" style="margin-left:50px;"></iframe>
-This wideo shows an experiment with 120 particles at a low homogeneous illumination intensity.
+This video captures an experiment with 120 particles under low homogeneous illumination intensity.
 
-You can see that lots of clusters are being formed. Some of them are relatively large, and stay for a long time. Most of them dissolves after a while, but there is one (the yellow one) that grows constantly, stays stable, and by the end of the experiment, incorporates around 75% of the bugs.
+Numerous clusters form throughout the experiment, with some growing relatively large and remaining stable for extended periods. While most clusters eventually dissolve, one in particular (the yellow cluster) continues to grow steadily, eventually incorporating around 75% of the bugs by the end of the experiment.
 
-By conducting many experiments, we have seen, that low illumination and high population promotes the stabilization of the clusters.
+Through repeated experiments, we have observed that lower illumination levels combined with a high particle population promote cluster stability.
 <br clear="right"/>
 
-For low particle populations and high particle activities clusters form and disassociate quickly. These clusters are unstable. But as we increase the particle population and decrease the activity we see a transition from unstable to stable clusters. Stable clusters grow, incorporate the majority of the bugs, and stay stable during the whole experiment.
+At low particle populations and high activity levels, clusters form and break apart rapidly, making them highly unstable. However, as the particle population increases and activity decreases, we observe a transition from unstable to stable clusters. These stable clusters continue to grow, incorporating most of the bugs and remaining intact throughout the experiment.
 
-If you would like to know more about this transition, check our [preprint on arXiv](https://arxiv.org/abs/2412.14419){:target="_blank"}. We have also developed a kinetic model to describe the time evolution of clusters, which shows a nice agreement with the experiments.
+For a deeper dive into this transition, check out our [preprint on arXiv](https://arxiv.org/abs/2412.14419){:target="_blank"}. We have also developed a kinetic model to describe the time evolution of clusters, which closely aligns with our experimental findings.
 
-# What are we working on right now?
+# What are we working on now?
 
-We turned from homogeneous illuminations to inhomogeneous ones, to use the versatility of our experiment. We study how bugs are accumulating at less-illuminated regions, how this is related to the formation of clusters, and what happens if we suddenly increase the illumination in these regions. We are also doing simulations, to gain a deeper understanding of the particle motion.
+We've shifted our focus from uniform illumination to inhomogeneous lighting to take full advantage of our experimental setup's versatility. We are investigating how bugs accumulate in lower-illuminated regions, how this affects cluster formation, and what happens when we suddenly increase the illumination in these areas. Additionally, we are running simulations to gain deeper insights into particle motion and behavior.
 
-Stay tuned, as new results are coming soon!
+Stay tuned—exciting new results are on the way!
 
 <br>
 
