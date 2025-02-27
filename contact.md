@@ -5,7 +5,7 @@ description: ...
 ---
 
 <div align="center">
-You can find me at ...
+You can find me at
 </div>
 
 <div align="center">
