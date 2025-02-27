@@ -1,9 +1,9 @@
 title: Sara Levay
 description: Welcome at my homepage!
 show_downloads: true
+remote_theme: tuur29/pages-themes-cayman
 google_analytics: G-SDRFJ9LMQB
 google_analytics_anonymize: false
-remote_theme: tuur29/pages-themes-cayman
 color:
   header: "#454545"
   gradient_left: "#f57c00"
