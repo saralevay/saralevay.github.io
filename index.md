@@ -17,7 +17,7 @@ I hope you find my projects interesting :)
 
 # News
 
-Our paper about the shear flow of elongated granular particles has been <a href="https://journals.aps.org/pre/abstract/10.1103/875y-lk88" target="_blank">published in Physical Review E</a>.
+* **09/07/2025** - Our paper about the shear flow of elongated granular particles has been <a href="https://journals.aps.org/pre/abstract/10.1103/875y-lk88" target="_blank">published in Physical Review E</a>.
 
 * **20/03/2025** - I gave a talk at the APS Global Physics Summit in Anaheim (CA) titled <a href="https://summit.aps.org/smt/2025/events/MAR-S64/5" target="_blank">Collective behavior of photoactive macroscopic particles: an experimental study of cluster dynamics</a>.
 
