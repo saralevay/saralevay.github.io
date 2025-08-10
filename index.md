@@ -17,6 +17,10 @@ I hope you find my projects interesting :)
 
 # News
 
+Our paper about the shear flow of elongated granular particles has been <a href="https://journals.aps.org/pre/abstract/10.1103/875y-lk88" target="_blank">published in Physical Review E</a>.
+
+* **20/03/2025** - I gave a talk at the APS Global Physics Summit in Anaheim (CA) titled <a href="https://summit.aps.org/smt/2025/events/MAR-S64/5" target="_blank">Collective behavior of photoactive macroscopic particles: an experimental study of cluster dynamics</a>.
+
 * **17/02/2025** - We have published a <a href="https://arxiv.org/abs/2502.10079" target="_blank">preprint on arXiv</a> about the shear flows of elongated granular particles. We have shown that modulated shear induces transverse vortices.
 
 * **06/02/2025** - I gave a seminar at UNAV about the kinetic model we developed for the cluster dynamics of our photoactive agents.
