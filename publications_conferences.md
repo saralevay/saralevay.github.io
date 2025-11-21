@@ -6,7 +6,7 @@ description: ...
 
 # Publications
 
-* [Cluster dynamics in macroscopic photoactive particles](https://arxiv.org/abs/2412.14419){:target="_blank"}  
+* [Cluster dynamics in macroscopic photoactive particles](https://journals.aps.org/prl/abstract/10.1103/t7st-flj2){:target="_blank"}  
   **S. Lévay**, A. Katona, H. Löwen, R. Cruz Hidalgo, I. Zuriguel  
   Phys. Rev. Lett., 135, 098301 (2025).
   
@@ -14,7 +14,7 @@ description: ...
   We present an experimental study on the collective behavior of macroscopic self-propelled particles that are externally excited by light. This property allows testing the system response to the excitation intensity in a very versatile manner. We discover that for low excitation intensities, clustering at the boundaries is always present, even when this is prevented by implementing flower-shaped confining walls. For high excitation intensities, however, clusters are dissolved more or less easily depending on their size. Then, a thorough analysis of the cluster dynamics allows us to depict a phase diagram depending on the number of agents in the arena and the excitation intensity. To explain this, we introduce a simple kinetic model where cluster evolution is governed by a balance between adsorption and desorption processes. Interestingly, this simple model is able to reproduce the phase space observed experimentally.
 <br clear="right"/>
 
-* [Transverse vortices induced by modulated granular shear flows of elongated particles](https://arxiv.org/abs/2502.10079){:target="_blank"}  
+* [Transverse vortices induced by modulated granular shear flows of elongated particles](https://journals.aps.org/pre/abstract/10.1103/875y-lk88){:target="_blank"}  
   **S. Lévay**, P. Claudin, E. Somfai, T. Börzsönyi  
   Phys. Rev. E, 112, 015402 (2025).
   
