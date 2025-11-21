@@ -59,7 +59,7 @@ Through repeated experiments, we have observed that lower illumination levels co
 
 At low particle populations and high activity levels, clusters form and break apart rapidly, making them highly unstable. However, as the particle population increases and activity decreases, we observe a transition from unstable to stable clusters. These stable clusters continue to grow, incorporating most of the bugs and remaining intact throughout the experiment.
 
-For a deeper dive into this transition, check out our [preprint on arXiv](https://arxiv.org/abs/2412.14419){:target="_blank"}. We have also developed a kinetic model to describe the time evolution of clusters, which closely aligns with our experimental findings.
+For a deeper dive into this transition, check out our [paper in PRL](https://journals.aps.org/prl/abstract/10.1103/t7st-flj2){:target="_blank"}. We have also developed a kinetic model to describe the time evolution of clusters, which closely aligns with our experimental findings.
 
 # What are we working on now?
 
