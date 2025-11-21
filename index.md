@@ -8,7 +8,7 @@ description: Welcome to my homepage!
 # Hello
 
 <img src="./media/sl.png" alt="Clusters" align="left" style="width:20%; height:auto; margin-right:50px;">
-I am Sara, a physics postdoc, working on active matter and granular matter systems. I obtained my PhD in 2021 at the Budapest University of Technology and Economics. I studied different granular systems through DEM simulations. After a postdoc in Hungary and France, I now work in Spain on my MSCA project called PhotoActive.
+I’m Sara, a physics postdoctoral researcher fascinated by the dynamics of active matter and granular systems. I earned my PhD in 2021 at the Budapest University of Technology and Economics, where I explored granular materials through DEM simulations and spent part of my doctoral work in Germany. After postdoctoral work in Hungary and France, I moved to Spain for my MSCA project PhotoActive, spending two years investigating light-responsive active matter. Since completing the project, I’ve continued my research in Spain as a postdoc, now working with a diverse range of active matter systems at the University of Navarra.
 
 I hope you find my projects interesting :)
 <br clear="left"/>
@@ -16,6 +16,10 @@ I hope you find my projects interesting :)
 ***
 
 # News
+
+* **26/08/2025** - Our paper has been <a href="https://journals.aps.org/prl/abstract/10.1103/t7st-flj2" target="_blank">published in PRL</a>. It presents our new experimental setup and the study of cluster dynamics of macroscopic photoactive particles.
+
+* **20/06/2025** - I gave a talk at FisEs'25 (XXV Congreso de Física Estadística) en Santiago de Compostela titled "Collective dynamics of macroscopic photoactive particles".
 
 * **09/07/2025** - Our paper about the shear flow of elongated granular particles has been <a href="https://journals.aps.org/pre/abstract/10.1103/875y-lk88" target="_blank">published in Physical Review E</a>.
 
