@@ -10,8 +10,16 @@ description: ...
   **S. Lévay**, A. Katona, R. Cruz Hidalgo, I. Zuriguel  
   Phys. Rev. E, 113, 055423 (2026).
   
-  <img src="./media/publ_images/alternating.png" alt="Clusters" align="left" style="width:180px; height:auto; margin-right:20px;">
+  <img src="./media/publ_images/alternating.png" alt="Clusters" align="right" style="width:180px; height:auto; margin-right:20px;">
   Self-propelled particles often gather into dense clusters, similar to how crowds form in busy spaces. This study shows that their collective motion can be controlled by periodically switching the particles’ activity. The particles move faster in brighter regions and slower in darker ones, causing them to accumulate where motion is reduced. When the light conditions change slowly, the clusters repeatedly reorganize and follow the external environment. But when the switching becomes too rapid, the system can no longer adapt and becomes trapped in stable structures. By combining experiments and theory, the study reveals how collective motion competes with changing environmental conditions. The results provide a simple and highly controllable platform for studying active matter and could help guide the design of future active materials and transport systems.
+<br clear="right"/>
+
+* [Collective behavior of macroscopic photoactive particles: An experimental study](https://www.epj-conferences.org/articles/epjconf/abs/2025/25/epjconf_PnG2025_12003/epjconf_PnG2025_12003.html){:target="_blank"}  
+  **S. Lévay**, A. Katona, H. Löwen, R. C. Hidalgo, and Iker Zuriguel
+  EPJ Web Conf., 340, 12003 (2025).
+  
+  <img src="./media/publ_images/cluster_transition.png" alt="Clusters" align="left" style="width:180px; height:auto; margin-right:20px;">
+  We have studied three-dimensional clogging by means of DEM simulations with spherical and elongated particles. We have shown, that the clogged structure above the orifice is a primary, two-dimensional arch supported by secondary arches, and the interparticle force network of the system shows an onion-like layered structure.
 <br clear="left"/>
 
 * [Cluster dynamics in macroscopic photoactive particles](https://journals.aps.org/prl/abstract/10.1103/t7st-flj2){:target="_blank"}  
