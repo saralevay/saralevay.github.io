@@ -6,6 +6,14 @@ description: ...
 
 # Publications
 
+* [Collective dynamics of macroscopic photoactive matter under alternating excitation patterns](https://journals.aps.org/pre/abstract/10.1103/q1s2-xw9x){:target="_blank"}  
+  **S. Lévay**, A. Katona, R. Cruz Hidalgo, I. Zuriguel  
+  Phys. Rev. E, 113, 055423 (2026).
+  
+  <img src="./media/publ_images/alternating.png" alt="Clusters" align="left" style="width:180px; height:auto; margin-right:20px;">
+  Self-propelled particles often gather into dense clusters, similar to how crowds form in busy spaces. This study shows that their collective motion can be controlled by periodically switching the particles’ activity. The particles move faster in brighter regions and slower in darker ones, causing them to accumulate where motion is reduced. When the light conditions change slowly, the clusters repeatedly reorganize and follow the external environment. But when the switching becomes too rapid, the system can no longer adapt and becomes trapped in stable structures. By combining experiments and theory, the study reveals how collective motion competes with changing environmental conditions. The results provide a simple and highly controllable platform for studying active matter and could help guide the design of future active materials and transport systems.
+<br clear="left"/>
+
 * [Cluster dynamics in macroscopic photoactive particles](https://journals.aps.org/prl/abstract/10.1103/t7st-flj2){:target="_blank"}  
   **S. Lévay**, A. Katona, H. Löwen, R. Cruz Hidalgo, I. Zuriguel  
   Phys. Rev. Lett., 135, 098301 (2025).
