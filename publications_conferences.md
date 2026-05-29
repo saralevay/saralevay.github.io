@@ -87,11 +87,12 @@ T. Pongó, V. Stiga, J. Török, **S. Lévay**, B. Szabó, R. Stannarius, R. Cru
   In this study we described the axial segregation of bidisperse granular mixtures of glass beads in a spherical container, rotating about its horizontal axis. Depending on the filling fraction of the mixer and on the composition of the mixture, qualitatively different spontaneously formed patterns were observed. This evidences a collective pattern forming mechanism.
 <br clear="left"/>
   
-  
-  
-  
+
 
 # Conferences
+
+* **Talk:** _Collective behavior of macroscopic photoactive particles: An experimental study_  
+  Powders & Grains 2025, Goa, India (2025).
 
 * **Talk:** _Collective dynamics of macroscopic photoactive particles_  
   FisEs’25, XXV Congreso de Física Estadística, Santiago de Compostela, Spain (2025).
@@ -99,7 +100,6 @@ T. Pongó, V. Stiga, J. Török, **S. Lévay**, B. Szabó, R. Stannarius, R. Cru
 * **Talk:** _Collective behavior of photoactive macroscopic particles: an experimental study of cluster dynamics_  
   APS Global Physics Summit, Anaheim, USA (2025).
   
-
 * **Talk:** _Collective behavior of macroscopic light-driven active particles: an experimental study of cluster formation_  
   Traffic and Granular Flow, Lyon, France (2024).
   
