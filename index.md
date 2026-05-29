@@ -16,6 +16,16 @@ I hope you find my projects interesting :)
 ***
 
 # News
+ 
+* **05/2025** - Our paper about how alternating excitation patterns steer collective motion in a system of macroscopic photoactive particles has been <a href="https://journals.aps.org/pre/abstract/10.1103/q1s2-xw9x" target="_blank">published in PRE</a>.
+
+* **05/2026** - I gave a seminar at the HUN-REN Wigner Research Centre for Physics (Budapest) titled "Secondary flows in anisotropic granular matter".
+
+* **03/2026** - I gave a seminar at the HUN-REN-BME Morphodynamics Group (Budapest) titled "Makroszkopikus fotoaktív részecskék kollektív viselkedése".
+
+* **12/2025** - I gave a talk at Powders & Grains 2025 in Goa (India) titled “Collective behavior of macroscopic photoactive particles: An experimental study”
+
+* **11/2025** - I gave a seminar at the Institut Lumière Matière (Lyon) titled "Collective dynamics of macroscopic photoactive particles".
 
 * **08/2025** - Our paper has been <a href="https://journals.aps.org/prl/abstract/10.1103/t7st-flj2" target="_blank">published in PRL</a>, presenting our new experimental setup and our study of cluster dynamics in macroscopic photoactive particles.
 
