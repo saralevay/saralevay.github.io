@@ -10,7 +10,7 @@ description: ...
   **S. Lévay**, A. Katona, R. Cruz Hidalgo, I. Zuriguel  
   Phys. Rev. E, 113, 055423 (2026).
   
-  <img src="./media/publ_images/alternating.png" alt="Clusters" align="right" style="width:180px; height:auto; margin-right:20px;">
+  <img src="./media/publ_images/alternating.png" alt="Clusters" align="right" style="width:200px; height:auto; margin-left:20px;">
   Self-propelled particles often gather into dense clusters, similar to how crowds form in busy spaces. This study shows that their collective motion can be controlled by periodically switching the particles’ activity. The particles move faster in brighter regions and slower in darker ones, causing them to accumulate where motion is reduced. When the light conditions change slowly, the clusters repeatedly reorganize and follow the external environment. But when the switching becomes too rapid, the system can no longer adapt and becomes trapped in stable structures. By combining experiments and theory, the study reveals how collective motion competes with changing environmental conditions. The results provide a simple and highly controllable platform for studying active matter and could help guide the design of future active materials and transport systems.
 <br clear="right"/>
 
