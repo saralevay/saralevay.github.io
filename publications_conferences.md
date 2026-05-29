@@ -19,7 +19,7 @@ description: ...
   EPJ Web Conf., 340, 12003 (2025).
   
   <img src="./media/publ_images/cluster_transition.png" alt="Clusters" align="left" style="width:180px; height:auto; margin-right:20px;">
-  We have studied three-dimensional clogging by means of DEM simulations with spherical and elongated particles. We have shown, that the clogged structure above the orifice is a primary, two-dimensional arch supported by secondary arches, and the interparticle force network of the system shows an onion-like layered structure.
+  We experimentally investigate the collective behavior of an active granular system in which the activity of the macroscopic self-propelled agents is controlled by light intensity. This allows us to test the system response to the agents excitation by simply changing the illumination intensity. We explore a broad range of excitation levels and population sizes, discovering the existence of a transition from stable cluster development at low excitation intensities and large population sizes to unstable clustering when the light intensity is high and the population is small. Through an extensive analysis of cluster dynamics, we have constructed a phase diagram that illustrates this transition, providing insights into the mechanisms governing collective behavior in active granular matter.
 <br clear="left"/>
 
 * [Cluster dynamics in macroscopic photoactive particles](https://journals.aps.org/prl/abstract/10.1103/t7st-flj2){:target="_blank"}  
